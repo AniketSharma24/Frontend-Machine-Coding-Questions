@@ -10,9 +10,9 @@ In this repository, you'll find a collection of frontend projects that showcase 
 
 To get started, simply clone this repository to your local machine:
 
-\`\`\`
+
 git clone [https://github.com/your-username/frontend-machine-coding-interview-projects.git](https://github.com/AniketSharma24/Frontend-Machine-Coding-Questions.git)
-\`\`\`
+
 
 Navigate to the project directory and explore the available projects.
 
