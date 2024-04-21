@@ -42,4 +42,4 @@ Your task is to build a file explorer-type user interface (UI) that mimics the f
 - Implement drag-and-drop functionality for moving files and folders within the file explorer.
 - Add search functionality to quickly locate files or folders by their names.
 
-You can use plain JavaScript, or any modern frontend framework/library of your choice (e.g., React, Vue.js, Angular) to build the file explorer UI. Make sure to provide clear instructions on how to run and test your solution.
+You can use plain JavaScript, or any modern frontend framework/library of your choice (e.g., React, Vue.js, Angular) to build the file explorer UI.
