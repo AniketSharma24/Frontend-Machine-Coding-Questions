@@ -10,9 +10,7 @@ In this repository, you'll find a collection of frontend projects that showcase 
 
 To get started, simply clone this repository to your local machine:
 
-
 git clone https://github.com/AniketSharma24/Frontend-Machine-Coding-Questions.git
-
 
 Navigate to the project directory and explore the available projects.
 
@@ -34,4 +32,4 @@ To further enhance your frontend skills, we recommend exploring the following le
 
 This project is licensed under the [MIT License](LICENSE).
 
-Happy coding!
+Happy coding!!
